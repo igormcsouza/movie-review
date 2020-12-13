@@ -140,3 +140,4 @@ cython_debug/
 # Project Folders
 data/
 scripts/
+.vscode/
